@@ -1,16 +1,16 @@
  Linux + macOS Dual Boot Project
 
 Overview
-This project documents the process of configuring a Mac system to dual boot **macOS** and **Linux Mint**.  
+This project documents the process of configuring a Mac system to dual boot macOS and Linux Mint.  
 The goal was to gain hands-on experience with system administration, OS installation, and troubleshooting cross-platform compatibility issues.  
 
 ---
 
 Project Steps
-1. Prepared bootable USB with Linux Mint ISO.  
-2. Partitioned disk** using macOS Disk Utility to allocate space for Linux.  
-3. Configured EFI/bootloader** (rEFInd/GRUB) to allow OS selection at startup.  
-4. Installed Linux Mint** alongside macOS, ensuring file system compatibility.  
+1. Prepared bootable USB with belenaEther and Linux Mint ISO.  
+2. Partitioned disk using macOS Disk Utility to allocate space for Linux.  
+3. Configured EFI/bootloader to allow OS selection at startup.  
+4. Installed Linux Mint alongside macOS, ensuring file system compatibility.  
 5. Resolved bootloader conflicts** and verified stable dual boot functionality.  
 
 ---
@@ -31,9 +31,6 @@ Key Skills Demonstrated
 - Documentation of technical processes  
 - Cross-platform system administration  
 
----
-
-📸 Screenshots 
 ---
 
 Lessons Learned
